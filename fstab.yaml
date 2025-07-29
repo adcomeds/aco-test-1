@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/adcomeds/aco-test-1/
+    type: markup
